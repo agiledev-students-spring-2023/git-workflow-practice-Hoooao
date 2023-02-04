@@ -11,3 +11,6 @@ Some people would like to chase the latest version of every software they use, f
 ## Robert Zheng Response
 The advice seems to line up with the Modern tendency to distribute work onto multiple systems rather than relying on a singular central machine to handle everyhting, offloading work onto google drive sounds similar to ideas of Distributed processing or storing like Hadoop.
 
+
+## Danica Jin Response
+I agree with the opinion that some people "chase the latest version", but at the same time there's also inertia to make clients keep using the prior system with old habits, and then it will lead to extensions of the period of usage. Thus, we may consider integrating the latest tools into the system we already have to update it instead of replacing it. 
